@@ -7,6 +7,15 @@
 
 This is a simple HTML, CSS and JS project that showcases an animated marquee displaying a list of skills. It uses CSS animations and a linear gradient mask to create a smooth and visually appealing scrolling effect.
 
+## Inspiration and Credits
+
+This project was inspired by and adapted from the work of Ryan Mulligan. The original concept and base implementation can be found at:
+
+- **Author:** Ryan Mulligan
+- **Original CodePen:** [Infinite Scroll Animation](https://codepen.io/hexagoncircle/pen/wvmjomb)
+
+I'd like to express my gratitude to Ryan for sharing this creative design, which served as a foundation for this skills showcase project. While modifications and enhancements have been made, the core animation concept draws from Ryan's original work.
+
 ## Key Features
 
 * **Animated Scrolling:**  The skills list scrolls continuously, creating a dynamic visual effect.
