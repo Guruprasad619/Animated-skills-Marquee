@@ -2,11 +2,11 @@
 
 # Animated Skills Marquee
 
-[Project Screenshot -  Include an image of your project running]
+[Demo](https://guruprasad619.github.io/Animated-skills-Marquee/)
 
 ## Description
 
-This is a simple HTML and CSS project that showcases an animated marquee displaying a list of skills. It uses CSS animations and a linear gradient mask to create a smooth and visually appealing scrolling effect.
+This is a simple HTML, CSS and JS project that showcases an animated marquee displaying a list of skills. It uses CSS animations and a linear gradient mask to create a smooth and visually appealing scrolling effect.
 
 ## Key Features
 
@@ -19,9 +19,9 @@ This is a simple HTML and CSS project that showcases an animated marquee display
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Guruprasad619 /Animated-skills-Marquee.git
 content_copy
-Use code with caution.
+
 Markdown
 
 Open the index.html file in your web browser.
@@ -52,24 +52,5 @@ Feel free to open issues for any suggestions or bugs you encounter.
 
 Pull requests for improvements or bug fixes are also appreciated.
 
-License
 
-This project is licensed under the MIT License.
 
-**Remember to:**
-
-* **Replace Placeholders:** Fill in the project name, your GitHub username, and the repository name in the code block above.
-* **Add Screenshots:**  Include a screenshot of your project running as part of your `README.md` file. 
-* **Save the File:**  Save the code as `README.md` in your project directory.
-
-**Important Note:**
-
-This `README.md` is a starting point.  You can customize it further to add additional information about your project, such as:
-
-* **Detailed Instructions:** Include more detailed steps for users to understand how the code works and how to customize it. 
-* **Demo Links:** If you have a live demo of your project hosted online, include a link here.
-* **Inspiration:** Mention any resources that inspired your project or that you used as references. 
-
-I hope this is a good starting point for your `README.md`.  Good luck with your project!
-content_copy
-Use code with caution.
